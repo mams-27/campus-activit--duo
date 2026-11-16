@@ -37,3 +37,4 @@ Git se lance à la racine de `campus-activites`. Si vous poursuivez dans le dép
 Pour tester le site, placez ce dossier dans le répertoire www de Wamp et lancez le serveur local.
 bonjour je suuuuuuu
 bonjour je suuuu pas
+test come dhab
