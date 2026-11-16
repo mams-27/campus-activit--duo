@@ -9,3 +9,4 @@ body { background: #f6f8fc; color: #17243d; }
 .catalogue .card-body { padding: 1.25rem; }
 .catalogue article { margin-bottom: .75rem; }
 .site-footer { padding-block: 1.25rem; color: #4e5f79; border-top: 1px solid #dce4ef; }
+.lead { color: blue; font-weight: bold; }
