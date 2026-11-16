@@ -1,5 +1,5 @@
 <?php
-$titrePage = 'Accueil';
+$titrePage = 'TITRE ERRONE POUR EXERCICE';
 require __DIR__ . '/../src/inclusions/entete.php';
 ?>
 <main class="container py-5">
